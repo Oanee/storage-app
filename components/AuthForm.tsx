@@ -88,7 +88,7 @@ const AuthForm = ({ type }: { type: FormType }) => {
 
                     <FormControl>
                       <Input
-                        placeholder="Enter yhou full name"
+                        placeholder="Enter your full name"
                         className="shad-input"
                         {...field}
                       />
